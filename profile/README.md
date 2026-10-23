@@ -52,4 +52,4 @@ forthcoming and will be announced here and on the website.
 - Website: [sintesismacro.com](https://www.sintesismacro.com)
 - Email: <office@sintesismacro.com>
 
-<sub>Not investment advice. No issuer or security is named in SINTESIS public material. Prepared 22 October 2026 · Revised 22 October 2026</sub>
+<sub>Not investment advice. No issuer or security is named in SINTESIS public material. Prepared 22 October 2026 · Revised 23 October 2026</sub>

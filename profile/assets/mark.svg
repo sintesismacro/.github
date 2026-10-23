@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512">
-  <g fill="none" stroke="#F2EFE8" stroke-width="11" stroke-linecap="square" stroke-linejoin="miter">
-    <path d="M82 18 H22 L52 50 L22 82 H82"/>
-  </g>
-  <circle cx="52" cy="50" r="7.5" fill="#2DB89F"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-50 -5 100 91" role="img" aria-label="SINTESIS mark">
+<title>SINTESIS branch mark</title>
+<g fill="none">
+<path d="M0.000 0.000L0.000 80.000" stroke="currentColor" stroke-width="12.000" stroke-linecap="round"/>
+<path d="M-48.000 14.000L0.000 38.000" stroke="currentColor" stroke-width="4.000" stroke-linecap="round"/>
+<path d="M-42.000 36.000L0.000 48.000" stroke="currentColor" stroke-width="5.000" stroke-linecap="round"/>
+<path d="M-34.000 74.000L0.000 60.000" stroke="currentColor" stroke-width="4.000" stroke-linecap="round"/>
+<path d="M0.000 20.000L44.000 -2.000" stroke="currentColor" stroke-width="6.000" stroke-linecap="round"/>
+<path d="M0.000 44.000L48.000 44.000" stroke="currentColor" stroke-width="4.000" stroke-linecap="round"/>
+</g>
 </svg>
