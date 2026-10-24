@@ -9,6 +9,22 @@ independently timestamped, and the misses stay in.
 
 <a href="https://github.com/sintesismacro/ledger"><img src="https://raw.githubusercontent.com/sintesismacro/ledger/evidence/scorecard.svg" alt="Forward Evidence Ledger scorecard: open and resolved forecasts, Brier score and calibration status" width="100%"></a>
 
+**[Open the Observatory →](https://sintesismacro.github.io/observatory/)** Test your calibration on
+fourteen resolved questions, walk the Atlas of the physical layers of AI and meet the thinkers
+behind the rules.
+
+## Three paths, one record
+
+| | Path | What it is | Status |
+| --- | --- | --- | --- |
+| 01 | **[The Ledger](https://github.com/sintesismacro/ledger)** · outcome | Every forecast dated, sourced and scored, misses included, with a live scorecard and calibration chart. | Live; first forecasts planned for December 2026 |
+| 02 | **[The Atlas](https://sintesismacro.github.io/observatory/#atlas)** · visual | The physical side of AI (compute, power, grid, cooling, robotics), with a Becoming and a Returning score per layer, redrawn from the Ledger. | Map live; scores fill as forecasts open |
+| 03 | **[The Guild and the Letter](https://sintesismacro.github.io/observatory/#guild)** · people | People collected by calibration, not fame; a quarterly letter merged as a pull request. | Arena opens with the first questions; [Letter 0](https://github.com/sintesismacro/ledger/pull/6) out now |
+
+**[The Physical AI Collection](https://github.com/sintesismacro/physical-ai-collection)**: open-source
+projects across the ten layers, each opened and checked by hand, collected by judgement, not by
+fame.
+
 ## Becoming vs Returning
 
 Every thesis carries two voices before it carries a number. **Becoming**, after Spinoza:
@@ -52,4 +68,4 @@ forthcoming and will be announced here and on the website.
 - Website: [sintesismacro.com](https://www.sintesismacro.com)
 - Email: <office@sintesismacro.com>
 
-<sub>Not investment advice. No issuer or security is named in SINTESIS public material. Prepared 22 October 2026 · Revised 23 October 2026</sub>
+<sub>Not investment advice. No issuer or security is named in SINTESIS public material. Prepared 22 October 2026 · Revised 24 October 2026</sub>
