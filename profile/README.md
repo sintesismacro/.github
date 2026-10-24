@@ -1,8 +1,6 @@
-<img src="assets/banner.png" alt="SINTESIS — Intelligence becomes abundant; verified judgement becomes scarce. Becoming vs Returning." width="100%">
+<img src="assets/banner.png" alt="SINTESIS — The Observatory. Intelligence becomes abundant; verified judgement becomes scarce. Three paths: the Ledger, the Atlas, the Guild and the Letter." width="100%">
 
 # SINTESIS
-
-**Intelligence becomes abundant; verified judgement becomes scarce.**
 
 We verify judgement, starting with our own. Every forecast we make is dated, sourced, scored and
 independently timestamped, and the misses stay in.
@@ -19,7 +17,7 @@ behind the rules.
 | --- | --- | --- | --- |
 | 01 | **[The Ledger](https://github.com/sintesismacro/ledger)** · outcome | Every forecast dated, sourced and scored, misses included, with a live scorecard and calibration chart. | Live; first forecasts planned for December 2026 |
 | 02 | **[The Atlas](https://sintesismacro.github.io/observatory/#atlas)** · visual | The physical side of AI (compute, power, grid, cooling, robotics), with a Becoming and a Returning score per layer, redrawn from the Ledger. | Map live; scores fill as forecasts open |
-| 03 | **[The Guild and the Letter](https://sintesismacro.github.io/observatory/#guild)** · people | People collected by calibration, not fame; a quarterly letter merged as a pull request. | Arena opens with the first questions; [Letter 0](https://github.com/sintesismacro/ledger/pull/6) out now |
+| 03 | **[The Guild and the Letter](https://sintesismacro.github.io/observatory/#guild)** · people | People collected by calibration, not fame; a quarterly letter merged as a pull request. | Arena opens with the first questions; [Letter 0](https://github.com/sintesismacro/ledger/blob/main/letters/2026-10-letter-0.md) out now |
 
 **[The Physical AI Collection](https://github.com/sintesismacro/physical-ai-collection)**: open-source
 projects across the ten layers, each opened and checked by hand, collected by judgement, not by
